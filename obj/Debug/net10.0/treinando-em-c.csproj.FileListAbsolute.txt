@@ -1,0 +1,15 @@
+C:\Users\Nelson\Downloads\treinando-em-c\bin\Debug\net10.0\treinando-em-c.exe
+C:\Users\Nelson\Downloads\treinando-em-c\bin\Debug\net10.0\treinando-em-c.deps.json
+C:\Users\Nelson\Downloads\treinando-em-c\bin\Debug\net10.0\treinando-em-c.runtimeconfig.json
+C:\Users\Nelson\Downloads\treinando-em-c\bin\Debug\net10.0\treinando-em-c.dll
+C:\Users\Nelson\Downloads\treinando-em-c\bin\Debug\net10.0\treinando-em-c.pdb
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.AssemblyInfoInputs.cache
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.AssemblyInfo.cs
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.csproj.CoreCompileInputs.cache
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.sourcelink.json
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.dll
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\refint\treinando-em-c.dll
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.pdb
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\treinando-em-c.genruntimeconfig.cache
+C:\Users\Nelson\Downloads\treinando-em-c\obj\Debug\net10.0\ref\treinando-em-c.dll
