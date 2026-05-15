@@ -1,2 +1,3 @@
-﻿string aFriend = "Bill";
+﻿Console.WriteLine ("Hello, World!");
+string aFriend = "Bill";
 Console.WriteLine (aFriend);
