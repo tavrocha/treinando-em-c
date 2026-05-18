@@ -1,5 +1,5 @@
 ﻿using System.Runtime.CompilerServices;
-
+/*
 string aFriend = "Bill";
 Console.WriteLine (aFriend);
 aFriend = "João";
@@ -36,3 +36,14 @@ Console.WriteLine (sayHello.ToLower());
 string songLyrics = "You say goodbye, and I say hello";
 Console.WriteLine (songLyrics.Contains("goodbye"));
 Console.WriteLine (songLyrics.Contains("greetings"));
+*/
+string s1 = "The quick brown fox jumps over the lazy dog";
+string s2 = "fox";
+bool b = s1.Contains(s2);
+Console.WriteLine("'{0}' is in the string '{1}':{2}",      s2, s1, b);
+if (b){
+    int index = s1.IndexOf(s2);
+    if (index >= 0)
+        Console.WriteLine("'{0}' begins at character position {1}",      s2, index + 1);
+    
+}
