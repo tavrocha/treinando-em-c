@@ -36,7 +36,7 @@ Console.WriteLine (sayHello.ToLower());
 string songLyrics = "You say goodbye, and I say hello";
 Console.WriteLine (songLyrics.Contains("goodbye"));
 Console.WriteLine (songLyrics.Contains("greetings"));
-*/
+
 string s1 = "The quick brown fox jumps over the lazy dog";
 string s2 = "fox";
 bool b = s1.Contains(s2);
@@ -47,3 +47,8 @@ if (b){
         Console.WriteLine("'{0}' begins at character position {1}",      s2, index + 1);
     
 }
+*/
+int a = 12;
+int b = 1;
+int c = a+b;
+Console.WriteLine (c);
