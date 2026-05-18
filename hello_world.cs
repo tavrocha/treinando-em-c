@@ -14,14 +14,14 @@ Console.WriteLine ($"The name {firstFriend} has {firstFriend.Length} letters");
 Console.WriteLine ($"The name {secondFriend} has {secondFriend.Length} letters");
 
 string greeting = "      Good Afternoon!!        ";
-Console.WriteLine ($"[{greeting}]");
+Console.WriteLine ($"{greeting}");
 
 string trimmedGreeting = greeting.TrimStart();
-Console.WriteLine($"{[trimmedGreeting]}");
+Console.WriteLine($"{trimmedGreeting}");
 
 trimmedGreeting = greeting.TrimEnd();
-Console.WriteLine($"{[trimmedGreeting]}");
+Console.WriteLine($"{trimmedGreeting}");
 
 trimmedGreeting = greeting.Trim();
-Console.WriteLine ($"{[trimmedGreeting]}");
+Console.WriteLine ($"{trimmedGreeting}");
 
